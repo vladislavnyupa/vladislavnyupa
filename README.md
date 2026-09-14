@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[![vladislavnyupa github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladislavnyupa&hide_border=true&theme=redical)](https://github.com/vladislavnyupa)
+
+[![3D Contributions](https://raw.githubusercontent.com/Vlad-coders/Vlad-coders/output/profile-3d-contrib/profile-night-view.svg)](https://github.com/vladislavnyupa)
+
 
 <hr>
 
