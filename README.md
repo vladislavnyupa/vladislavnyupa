@@ -3,7 +3,7 @@
 <div align="center">
 
 
-[![3D Contributions](https://raw.githubusercontent.com/vladislavnyupa/vladislavnyupa/output/profile-3d-contrib/profile-night-view.svg)](https://github.com/vladislavnyupa)
+[![3D Contributions](https://raw.githubusercontent.com/vladislavnyupa/vladislavnyupa/main/profile-3d-contrib/profile-night-view.svg)](https://github.com/vladislavnyupa)
 
 
 <hr>
