@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)](https://github.com/vladislavnyupa)
+[![Now playing](https://img.shields.io/badge/Now%20playing-%E2%80%94-0d1117?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/)
 
 </div>
 
